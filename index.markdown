@@ -45,6 +45,8 @@ layout: home
 
 <h1> Welcome, nice to e-meet you! </h1>
 
+Thank you for your visit!
+
 I am a postdoctoral researcher with 
 [Delft Center for Systems and Control (DCSC)](https://www.tudelft.nl/en/me/about/departments/delft-center-for-systems-and-control){:target="_blank"} 
 at [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"}, 
