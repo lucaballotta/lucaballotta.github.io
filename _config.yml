@@ -25,7 +25,6 @@ domain: lucaballotta.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lucaballotta.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lucaballotta
-linkedin_username: luca-ballotta-5a607b145
 
 # Build settings
 theme: minima

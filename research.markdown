@@ -41,13 +41,20 @@ More coming soon. Stay tuned!
 
 <b><i>Disclaimer:</i></b> Resilience is arguably one of the most (ab)used keywords recently. Not my fault, though, so I'll just use it to be consistent with the literature.
 
-In the context of multi-agent control systems, 
-<b>resilience</b> refers to being able to cope with agents that do not behave according to a prescribed control strategy.
-Resilient consensus considers this setting for a consensus task: normal agents try to agree on a common value while disturbed by misleading interactions with misbehaving agents. Consensus is widely used for distributed control (e.g., via distributed estimation or dstributed optimization),
-and making it robust/resilient is key to effective deployment of several multi-agent control techniques.
+In the context of multi-agent control, 
+<b>resilient consensus</b> refers to "normal" agents trying to agree on a common value while interacting with "misbehaving" agents that, well, just do what they want. Consensus is widely used for distributed control (e.g., via distributed estimation or dstributed optimization),
+and making it robust/resilient to faulty agents or cyber-attacks is key to effective deployment of several multi-agent control techniques.
 
-<h1>Relevant publications</h1>
+My research works along two directions.
+The first is to design resilient algorithms with <b>flexible performance guarantees</b>: that is,
+they should not only drive normal agents to some desired behavior,
+but also quantify how good (or bad) the situation is going to be,
+without relying on too strict assumptions.
+The second is to leverage physical communication to obtain <b>trustworthiness information</b> about transmitting agents
+and in turn perform detection of possible adversaries.
 
+{% capture details %}
+<br>
 <section class="section">
   <img src="/assets/deviation.jpg" class="image" />
   <div class="content">
@@ -57,9 +64,7 @@ and making it robust/resilient is key to effective deployment of several multi-a
     </p>
   </div>
 </section>
-
 <br>
-
 <section class="section">
   <img src="/assets/trade-off-comp-coll.jpg" class="image" />
   <div class="content">
@@ -69,3 +74,6 @@ and making it robust/resilient is key to effective deployment of several multi-a
     </p>
   </div>
 </section>
+{% endcapture %}
+{% capture summary %}<b>Selected publications</b>{% endcapture %}{% include details.html %}
+
