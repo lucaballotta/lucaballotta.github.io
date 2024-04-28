@@ -25,19 +25,18 @@ layout: home
 <section class="section">
   <img src="/assets/myself.jpg" class="image" />
   <div class="content">
-    Delft Center for Systems and Control 
-    <br>
-    Mekelweg 2
-    <br>
-    2628 CD Delft, Netherlands
-    <br><br>
-    <a href="https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=en&oi=ao" target="_blank">Google scholar</a>
-    <br>
-    <a href="https://www.linkedin.com/in/luca-ballotta-5a607b145/" target="_blank">LinkedIn</a>
-    <br>
-    <a href="https://orcid.org/0000-0002-6521-7142" target="_blank">ORCID</a>
-    <br>
-    <a href="mailto:l.ballotta@tudelft.nl" target="_blank">Work email</a>
+    <ul style="list-style-type:none;">
+        <li>Delft Center for Systems and Control</li>
+        <li>Mekelweg 2</li>
+        <li>2628 CD Delft, Netherlands</li>
+    </ul>
+    <ul style="list-style-type:none;">
+        <li><a href="https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=en&oi=ao" target="_blank"><img class="svg-icon" src="/assets/scholar-icon.svg">Google scholar</a></li>
+        <li><a href="https://www.linkedin.com/in/luca-ballotta-5a607b145/" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin'}}"></use></svg>LinkedIn</a></li>
+        <li><a href="https://orcid.org/0000-0002-6521-7142" target="_blank"><img class="svg-icon" src="/assets/orcid-icon.svg">ORCID</a></li>
+        <li><a href="mailto:l.ballotta@tudelft.nl"><img class="svg-icon" src="/assets/email-icon.svg">Work email</a></li>
+        <li><a href="mailto:luca.ballotta95@gmail.com"><img class="svg-icon" src="/assets/email-icon.svg">Personal email</a></li>
+    </ul>
   </div>
 </section>
 
