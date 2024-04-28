@@ -21,7 +21,6 @@
 title: Luca Ballotta
 email: luca.ballotta95@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-   
 domain: lucaballotta.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lucaballotta.github.io # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,7 +39,9 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - _posts_tmp/
+  - _pages_tmp/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
