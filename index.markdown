@@ -12,9 +12,9 @@ layout: home
   }
 
   img {
-    max-width: 50%;
-    max-height:50%;
+    /* max-height:50%; */
     float: left;
+    object-fit: contain;
   }
   
   .content {
@@ -23,7 +23,7 @@ layout: home
 </style>
 
 <section class="section">
-  <img src="/assets/myself.jpg" class="image" />
+  <img src="/assets/myself.jpg" />
   <div class="content">
     <ul style="list-style-type:none;">
         <li>Delft Center for Systems and Control</li>
