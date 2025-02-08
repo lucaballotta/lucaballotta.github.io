@@ -35,7 +35,6 @@ layout: home
         <li><a href="https://www.linkedin.com/in/luca-ballotta-5a607b145/" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin'}}"></use></svg>LinkedIn</a></li>
         <li><a href="https://orcid.org/0000-0002-6521-7142" target="_blank"><img class="svg-icon" src="/assets/orcid-icon.svg">ORCID</a></li>
         <li><a href="mailto:l.ballotta@tudelft.nl"><img class="svg-icon" src="/assets/email-icon.svg">Work email</a></li>
-        <li><a href="mailto:luca.ballotta95@gmail.com"><img class="svg-icon" src="/assets/email-icon.svg">Personal email</a></li>
     </ul>
   </div>
 </section>
