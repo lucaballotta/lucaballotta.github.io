@@ -1,0 +1,11 @@
+@ARTICLE{10265226,
+  author={Chang, Yun and Ballotta, Luca and Carlone, Luca},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={D-Lite: Navigation-Oriented Compression of 3D Scene Graphs for Multi-Robot Collaboration}, 
+  year={2023},
+  volume={8},
+  number={11},
+  pages={7527-7534},
+  keywords={Robots;Three-dimensional displays;Navigation;Task analysis;Solid modeling;Bandwidth;Semantics;Communication constraints;semantic scene understanding;graph spanner;multi-robot SLAM;multi-robot systems},
+  doi={10.1109/LRA.2023.3320011}
+}

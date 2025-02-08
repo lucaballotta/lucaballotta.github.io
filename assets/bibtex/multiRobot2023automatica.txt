@@ -1,0 +1,12 @@
+@article{ROSSI2023110941,
+    title = {Coordinated multi-robot trajectory tracking control over sampled communication},
+    journal = {Automatica},
+    volume = {151},
+    pages = {110941},
+    year = {2023},
+    issn = {0005-1098},
+    doi = {https://doi.org/10.1016/j.automatica.2023.110941},
+    url = {https://www.sciencedirect.com/science/article/pii/S0005109823000924},
+    author = {Enrica Rossi and Marco Tognon and Luca Ballotta and Ruggero Carli and Juan Cortés and Antonio Franchi and Luca Schenato},
+    keywords = {Control over sampled communications, Distributed control, Multi-robot systems, Trajectory tracking, UAVs}
+}

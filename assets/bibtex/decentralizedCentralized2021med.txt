@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9480167,
+  author={Ballotta, Luca and Jovanović, Mihailo R. and Schenato, Luca},
+  booktitle={2021 29th Mediterranean Conference on Control and Automation (MED)}, 
+  title={Optimal Network Topology of Multi-Agent Systems subject to Computation and Communication Latency}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={249-254},
+  keywords={Feedback loop;Network topology;Networked control systems;System dynamics;Delays;Feedback control;Information exchange;Communication latency;Decentralized control;Feedback latency;Minimum-variance control;Multi-agent systems;Networked control systems},
+  doi={10.1109/MED51440.2021.9480167}
+}

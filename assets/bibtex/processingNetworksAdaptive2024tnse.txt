@@ -1,0 +1,11 @@
+@ARTICLE{10225419,
+  author={Ballotta, Luca and Peserico, Giovanni and Zanini, Francesco and Dini, Paolo},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={To Compute or Not to Compute? Adaptive Smart Sensing in Resource-Constrained Edge Computing}, 
+  year={2024},
+  volume={11},
+  number={1},
+  pages={736-749},
+  keywords={Sensors;Monitoring;Delays;Sensor systems;Intelligent sensors;Computational modeling;Robot sensing systems;Communication latency;computation latency;edge computing;Q-learning;resource allocation;sensing design},
+  doi={10.1109/TNSE.2023.3306202}
+}

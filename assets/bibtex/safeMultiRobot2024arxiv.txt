@@ -1,0 +1,7 @@
+@article{BallottaSafeMultiRobot2024,
+  author={Ballotta, Luca and Talak, Rajat},
+  journal={arXiv e-prints}, 
+  title={Safe Distributed Control of Multi-Robot Systems with Communication Delays}, 
+  year={2024},
+  pages={arXiv:2402.09382},
+}

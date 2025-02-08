@@ -1,0 +1,11 @@
+@ARTICLE{10772208,
+  author={Ballotta, Luca and Vékássy, Áron and Gil, Stephanie and Yemini, Michal},
+  journal={IEEE Control Systems Letters}, 
+  title={Friedkin-Johnsen Model With Diminishing Competition}, 
+  year={2024},
+  volume={8},
+  number={},
+  pages={2679-2684},
+  keywords={Convergence;Steady-state;Consensus protocol;Vectors;Stochastic processes;Trajectory;Standards;Resilience;Multi-agent systems;Communication networks;Friedkin-Johnsen model;diminishing competition;consensus;convergence;convergence rate},
+  doi={10.1109/LCSYS.2024.3510192}
+}

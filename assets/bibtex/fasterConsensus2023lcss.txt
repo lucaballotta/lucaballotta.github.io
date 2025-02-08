@@ -1,0 +1,11 @@
+@ARTICLE{10104068,
+  author={Ballotta, Luca and Gupta, Vijay},
+  journal={IEEE Control Systems Letters}, 
+  title={Faster Consensus via a Sparser Controller}, 
+  year={2023},
+  volume={7},
+  number={},
+  pages={1459-1464},
+  keywords={Delays;Convergence;Computer architecture;Stability analysis;Eigenvalues and eigenfunctions;Optimization;Topology;Communication latency;consensus;control architecture;convergence rate;distributed control},
+  doi={10.1109/LCSYS.2023.3268005}
+}

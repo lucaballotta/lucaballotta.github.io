@@ -1,0 +1,11 @@
+@ARTICLE{9137405,
+  author={Ballotta, Luca and Schenato, Luca and Carlone, Luca},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={Computation-Communication Trade-Offs and Sensor Selection in Real-Time Estimation for Processing Networks}, 
+  year={2020},
+  volume={7},
+  number={4},
+  pages={2952-2965},
+  keywords={Delays;Robot sensing systems;Estimation;Monitoring;Computational modeling;Linear systems;Networked systems;Communication latency;Processing latency;Processing network;Resource allocation;Sensor fusion;Optimal estimation;Smart sensors.},
+  doi={10.1109/TNSE.2020.3008337}
+}

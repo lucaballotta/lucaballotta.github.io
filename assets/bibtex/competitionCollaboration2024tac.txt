@@ -1,0 +1,11 @@
+@ARTICLE{10306277,
+  author={Ballotta, Luca and Como, Giacomo and Shamma, Jeff S. and Schenato, Luca},
+  journal={IEEE Transactions on Automatic Control}, 
+  title={Can Competition Outperform Collaboration? The Role of Misbehaving Agents}, 
+  year={2024},
+  volume={69},
+  number={4},
+  pages={2308-2323},
+  keywords={Resilience;Task analysis;Costs;Collaboration;Smart grids;Robustness;Noise measurement;Friedkin–Johnsen (FJ) model;misbehaving agents;multiagent systems;resilient consensus},
+  doi={10.1109/TAC.2023.3329850}
+}

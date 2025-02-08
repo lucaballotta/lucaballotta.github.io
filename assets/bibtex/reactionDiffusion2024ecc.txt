@@ -1,0 +1,11 @@
+@INPROCEEDINGS{10591075,
+  author={Ballotta, Luca and Arbelaiz, Juncal and Gupta, Vijay and Schenato, Luca and Jovanović, Mihailo R.},
+  booktitle={2024 European Control Conference (ECC)}, 
+  title={Control of Reaction-Diffusion Processes Under Communication Delays}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={525-530},
+  keywords={State feedback;Delay systems;Design methodology;Process control;Optimal control;Europe;Delays},
+  doi={10.23919/ECC64448.2024.10591075}
+}

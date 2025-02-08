@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9993151,
+  author={Ballotta, Luca and Peserico, Giovanni and Zanini, Francesco},
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)}, 
+  title={A Reinforcement Learning Approach to Sensing Design in Resource-Constrained Wireless Networked Control Systems}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3914-3919},
+  keywords={Wireless sensor networks;Q-learning;Networked control systems;Wireless networks;Process control;Numerical simulation;Velocity measurement},
+  doi={10.1109/CDC51059.2022.9993151}
+}

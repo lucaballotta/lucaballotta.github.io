@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9589966,
+  author={Tripathi, Vishrant and Ballotta, Luca and Carlone, Luca and Modiano, Eytan},
+  booktitle={2021 19th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt)}, 
+  title={Computation and Communication Co-Design for Real-Time Monitoring and Control in Multi-Agent Systems}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Schedules;Computational modeling;Wireless networks;Control systems;Real-time systems;Delays;Time-varying systems;wireless networks;Age of Information;distributed computing;robotics;networked control systems},
+  doi={10.23919/WiOpt52861.2021.9589966}
+}

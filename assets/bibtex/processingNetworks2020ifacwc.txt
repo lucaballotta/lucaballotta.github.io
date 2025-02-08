@@ -1,0 +1,14 @@
+@article{BALLOTTA202011024,
+    title = {From Sensor to Processing Networks: Optimal Estimation with Computation and Communication Latency⁎⁎This work was partially funded by the ONR RAIDER program (N00014-18-1-2828), the CARIPARO Foundation Visiting Programme “HiPeR”, and the Italian Ministry of Education PRIN n. 2017NS9FEY and under the initiative “Departments of Excellence” (Law 232/2016).},
+    journal = {IFAC-PapersOnLine},
+    volume = {53},
+    number = {2},
+    pages = {11024-11031},
+    year = {2020},
+    note = {21st IFAC World Congress},
+    issn = {2405-8963},
+    doi = {https://doi.org/10.1016/j.ifacol.2020.12.223},
+    url = {https://www.sciencedirect.com/science/article/pii/S2405896320304948},
+    author = {Luca Ballotta and Luca Schenato and Luca Carlone},
+    keywords = {Networked systems, communication latency, processing latency, processing network, resource allocation, sensor fusion, edge computing, smart sensors}
+}

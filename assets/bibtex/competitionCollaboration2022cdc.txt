@@ -1,0 +1,11 @@
+@INPROCEEDINGS{9993083,
+  author={Ballotta, Luca and Como, Giacomo and Shamma, Jeff S. and Schenato, Luca},
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)}, 
+  title={Competition-Based Resilience in Distributed Quadratic Optimization}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={6454-6459},
+  keywords={Wireless sensor networks;Networked control systems;Heuristic algorithms;Robot sensing systems;Power grids;Power system reliability;Proposals},
+  doi={10.1109/CDC51059.2022.9993083}
+}
