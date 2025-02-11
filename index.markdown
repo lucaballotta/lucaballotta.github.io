@@ -45,14 +45,16 @@ layout: home
 
 Thank you for your visit!
 
-I am a postdoctoral researcher with 
+I am a postdoc with the
 [Delft Center for Systems and Control (DCSC)](https://www.tudelft.nl/en/me/about/departments/delft-center-for-systems-and-control){:target="_blank"} 
-at [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"}, 
+at the [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"}, 
 working in [Riccardo Ferrari](https://www.dcsc.tudelft.nl/~riccardoferrar/){:target="_blank"}'s team.
 
-Previous to that, I obtained the master's degree in Automation Engineering at the 
-[University of Padova](https://www.unipd.it/en/){:target="_blank"},
-[Department of Information Engineering](https://www.dei.unipd.it/en/home-page){:target="_blank"}, 
-where I also got the Ph.D. degree in Information Engineering and spent one year as research fellow.
+I am interested in several problems in multi-agent and network control, resource allocation, and codesign.
+Head to the Research tab and take a peek at my bread and butter.
 
-Have a look at my [CV](/assets/Academic_cv.pdf) to learn more.
+I am also Publicity co-chair at [CSS Nextcom](https://sites.google.com/view/css-nextcom/).
+If you are a (PhD) student, young researcher or professional in systems and control,
+or just an enthusiast, that is the right place to boost your network and career! 
+
+Have a look at my [CV](/assets/Academic_cv.pdf) to learn more about myself.

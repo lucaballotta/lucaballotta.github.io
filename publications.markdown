@@ -15,14 +15,14 @@ order: 2
 
 <h1>Journal articles</h1>
 
-- L, Ballotta, Á. Vékássy, S. Gil, M. Yemini,
+- L. Ballotta, Á. Vékássy, S. Gil, M. Yemini,
 "Friedkin-Johnsen Model With Diminishing Competition,"
 <i>IEEE Control Systems Letters</i>, 2024
 [[online](https://ieeexplore.ieee.org/document/10772208){:target="_blank"}]
 [[arxiv](https://arxiv.org/abs/2409.12601){:target="_blank"}]
 [[bibtex](/assets/bibtex/FJDiminishing2024lcss.txt){:target="_blank"}]
 
-- L, Ballotta, G. Joseph, I. R. Thete,
+- L. Ballotta, G. Joseph, I. R. Thete,
 "Pointwise-Sparse Actuator Scheduling for Linear Systems With Controllability Guarantee,"
 <i>IEEE Control Systems Letters</i>, 2024
 [[online](https://ieeexplore.ieee.org/document/10706838){:target="_blank"}]
