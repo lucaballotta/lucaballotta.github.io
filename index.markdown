@@ -53,7 +53,7 @@ working in [Riccardo Ferrari](https://www.dcsc.tudelft.nl/~riccardoferrar/){:tar
 I am interested in several problems in multi-agent and network control, resource allocation, and codesign.
 Head to the Research tab and take a peek at my bread and butter.
 
-I am also Publicity co-chair at [CSS Nextcom](https://sites.google.com/view/css-nextcom/).
+I am also Publicity co-chair at [CSS Nextcom](https://sites.google.com/view/css-nextcom/){:target="_blank"}.
 If you are a (PhD) student, young researcher or professional in systems and control,
 or just an enthusiast, that is the right place to boost your network and career! 
 
