@@ -64,7 +64,7 @@ Have a look at my [CV](/assets/Academic_cv.pdf) to learn more about myself.
 - Two workshops accepted at the European Control Conference 2025!
 
   - Sparsity in control: from distributed MPC to energy-efficient actuator scheduling, to optimization hierarchies for stability analysis
-  [website](https://sites.google.com/view/ecc25workshop-sparse-control){:target="_blank"}
+  [[website](https://sites.google.com/view/ecc25workshop-sparse-control){:target="_blank"}]
 
   - Reinforcement Learning for robotic control: data-efficiency, multi-agent RL, safety and explainability, the Sim2Real challenge, and beyond
-  [website](https://sites.google.com/view/ecc25workshop-rl){:target="_blank"}
+  [[website](https://sites.google.com/view/ecc25workshop-rl){:target="_blank"}]
