@@ -5,15 +5,21 @@ permalink: /publications/
 order: 2
 ---
 
-<h1>Preprints</h1>
+<h1>Journal articles</h1>
 
 - L. Ballotta, R. Talak, 
 "Safe Distributed Control of Multi-Robot Systems with Communication Delays", 
-2024 [under review at IEEE Transactions on Vehicular Technology]
+<i>IEEE Transactions on Vehicular Technology</i>, 2025
+[[online](https://ieeexplore.ieee.org/document/10908682){:target="_blank"}]
 [[arxiv](https://arxiv.org/abs/2402.09382){:target="_blank"}]
-[[bibtex](/assets/bibtex/safeMultiRobot2024arxiv.txt){:target="_blank"}]
+[[bibtex](/assets/bibtex/safeMultiRobot2024tvt.txt){:target="_blank"}]
 
-<h1>Journal articles</h1>
+- L. Ballotta, N. Dal Fabbro, G. Perin, L. Schenato, M. Rossi, G. Piro, 
+"VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning,"
+<i>IEEE Transactions on Vehicular Technology</i>, 2025
+[[online](https://ieeexplore.ieee.org/document/10715716){:target="_blank"}]
+[[arxiv](https://arxiv.org/abs/2311.18741){:target="_blank"}]
+[[bibtex](/assets/bibtex/vremfl2024tvt.txt){:target="_blank"}]
 
 - L. Ballotta, Á. Vékássy, S. Gil, M. Yemini,
 "Friedkin-Johnsen Model With Diminishing Competition,"
@@ -28,13 +34,6 @@ order: 2
 [[online](https://ieeexplore.ieee.org/document/10706838){:target="_blank"}]
 [[arxiv](https://arxiv.org/abs/2407.12125){:target="_blank"}]
 [[bibtex](/assets/bibtex/sparseActuatorSchedule2024lcss.txt){:target="_blank"}]
-
-- L. Ballotta, N. Dal Fabbro, G. Perin, L. Schenato, M. Rossi, G. Piro, 
-"VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning,"
-<i>IEEE Transactions on Vehicular Technology</i>, 2024 
-[[online](https://ieeexplore.ieee.org/document/10715716){:target="_blank"}]
-[[arxiv](https://arxiv.org/abs/2311.18741){:target="_blank"}]
-[[bibtex](/assets/bibtex/vremfl2024tvt.txt){:target="_blank"}]
 
 - L. Ballotta, G. Como, J. S. Shamma, L. Schenato, 
 "Can Competition Outperform Collaboration? The Role of Misbehaving Agents," 
@@ -86,6 +85,11 @@ order: 2
 [[bibtex](/assets/bibtex/processingNetworks2020tnse.txt){:target="_blank"}]
 
 <h1>Conference papers</h1>
+
+- L. Ballotta, A. Peruffo, R. M. G. Ferrari, M. Mazo,
+"Fault Detection via Output-Based Barrier Functions,"
+<i>European Control Conference</i>, 2025
+[[bibtex](/assets/bibtex/faultDetection2025ecc.txt){:target="_blank"}]
 
 - L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
 "Control of Reaction-Diffusion Processes under Communication Delays,"

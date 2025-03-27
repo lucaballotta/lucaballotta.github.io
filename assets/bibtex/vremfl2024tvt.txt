@@ -2,10 +2,10 @@
   author={Ballotta, Luca and Fabbro, Nicolò Dal and Perin, Giovanni and Schenato, Luca and Rossi, Michele and Piro, Giuseppe},
   journal={IEEE Transactions on Vehicular Technology}, 
   title={VREM-FL: mobility-aware computation-scheduling co-design for vehicular federated learning}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-16},
+  year={2025},
+  volume={74},
+  number={2},
+  pages={3311-3326},
   keywords={Computational modeling;Training;Resource management;Wireless networks;Scheduling;Federated learning;5G mobile communication;Processor scheduling;Optimization;Costs;5G;Federated Learning;optimization;REM;resource management;scheduling;vehicular networks},
   doi={10.1109/TVT.2024.3479780}
 }

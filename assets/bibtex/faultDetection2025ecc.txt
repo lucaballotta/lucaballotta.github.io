@@ -1,0 +1,7 @@
+@INPROCEEDINGS{ballotta25ecc,
+  author={Ballotta, Luca and Arbelaiz, Andrea and Ferrari, Riccardo M. G. and Mazo, Manuel},
+  booktitle={2025 European Control Conference (ECC)}, 
+  title={Fault Detection via Output-Based Barrier Functions}, 
+  year={2025},
+  notes={[to appear]}
+}
