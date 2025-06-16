@@ -1,0 +1,6 @@
+@ARTICLE{FJisDGD,
+  author={Akgün, Orhan Eren and Vékássy, Áron and Ballotta, Luca and Yemini, Michal and Gil, Stephanie},
+  journal={IEEE Control Systems Letters}, 
+  title={Friedkin-Johnsen Is Distributed Gradient Descent}, 
+  year={2025}
+}
