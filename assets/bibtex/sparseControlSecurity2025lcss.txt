@@ -2,5 +2,6 @@
   author={Wolleswinkel, Bart and van Straalen, Ivo and Ballotta, Luca and Gallo, Alex J. and Ferrari, Riccardo M. G.},
   journal={IEEE Control Systems Letters},
   title={Periodic sparse control to deter undetectable attacks on over-actuated systems}, 
-  year={2025}
+  year={2025},
+  doi={10.1109/LCSYS.2025.3581865}
 }
