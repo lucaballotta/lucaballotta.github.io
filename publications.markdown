@@ -19,12 +19,14 @@ order: 2
 
 - O. E. Akgün, Á. Vékássy, L. Ballotta, M. Yemini, S. Gil,
 "Friedkin-Johnsen Is Distributed Gradient Descent,"
-<i>IEEE Control Systems Letters</i>, 2025 [accepted]
+<i>IEEE Control Systems Letters</i>, 2025
+[[online](https://ieeexplore.ieee.org/document/11045805){:target="_blank"}]
 [[bibtex](/assets/bibtex/FJisDGD2025lcss.txt){:target="_blank"}]
 
 - B. Wolleswinkel, I. van Straalen, L. Ballotta, A. J. Gallo, R. M. G. Ferrari,
 "Periodic Sparse Control to Prevent Undetectable Attacks on Over-Actuated Systems,"
-<i>IEEE Control Systems Letters</i>, 2025 [accepted]
+<i>IEEE Control Systems Letters</i>, 2025
+[[online](https://ieeexplore.ieee.org/document/11045688){:target="_blank"}]
 [[bibtex](/assets/bibtex/sparseControlSecurity2025lcss.txt){:target="_blank"}]
 
 - L. Ballotta, R. Talak, 
