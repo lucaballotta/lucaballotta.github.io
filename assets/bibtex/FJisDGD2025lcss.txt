@@ -3,5 +3,8 @@
   journal={IEEE Control Systems Letters}, 
   title={Friedkin-Johnsen Is Distributed Gradient Descent}, 
   year={2025},
+  volume={9},
+  pages={1544-1549},
+  keywords={Optimization;Convergence;Numerical models;Heuristic algorithms;Cost function;Analytical models;Costs;Vectors;Adaptation models;Training;Agents-based systems;modeling;optimization},
   doi={10.1109/LCSYS.2025.3581718}
 }
