@@ -3,5 +3,8 @@
   journal={IEEE Control Systems Letters},
   title={Periodic sparse control to deter undetectable attacks on over-actuated systems}, 
   year={2025},
+  volume={9},
+  pages={1850-1855},
+  keywords={Actuators;Schedules;Security;Vectors;System dynamics;Redundancy;Job shop scheduling;Water heating;Trajectory;Training;Actuator scheduling;over-actuated system;sparse control;undetectable attacks},
   doi={10.1109/LCSYS.2025.3581865}
 }

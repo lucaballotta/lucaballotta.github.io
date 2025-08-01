@@ -2,5 +2,10 @@
   author={Ballotta, Luca and Talak, Rajat},
   journal={IEEE Transactions on Vehicular Technology}, 
   title={Safe Distributed Control of Multi-Robot Systems with Communication Delays}, 
-  year={2025}
+  year={2025},
+  volume={74},
+  number={7},
+  pages={10137-10150},
+  keywords={Delays;Safety;Robots;Robot kinematics;Decentralized control;Collision avoidance;Control systems;Multi-robot systems;Optimization;Navigation;Communication delays;distributed control barrier function;graph neural network;multi-robot system;safety},
+  doi={10.1109/TVT.2025.3546857}
 }
