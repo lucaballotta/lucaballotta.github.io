@@ -17,6 +17,18 @@ order: 2
 
 <h1>Journal articles</h1>
 
+- L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
+"The Role of Communication Delays in the Optimal Control of Spatially Invariant Systems,"
+<i>IEEE Transactions on Automatic Control</i>, 2025
+[[online](https://ieeexplore.ieee.org/document/11134281){:target="_blank"}]
+[[bibtex](/assets/bibtex/spatiallyInvariantDelays2025tac.txt){:target="_blank"}]
+
+- L. Ballotta, A. Peruffo, R. M. G. Ferrari, M. Mazo,
+"Fault Detection via Output-Based Barrier Functions,"
+<i>European Journal of Control</i>, 2025
+[[online](https://www.sciencedirect.com/science/article/pii/S0947358025001128){:target="_blank"}]
+[[bibtex](/assets/bibtex/faultDetection2025ejc.txt){:target="_blank"}]
+
 - O. E. Akgün, Á. Vékássy, L. Ballotta, M. Yemini, S. Gil,
 "Friedkin-Johnsen Is Distributed Gradient Descent,"
 <i>IEEE Control Systems Letters</i>, 2025
@@ -107,11 +119,6 @@ order: 2
 [[bibtex](/assets/bibtex/processingNetworks2020tnse.txt){:target="_blank"}]
 
 <h1>Conference papers</h1>
-
-- L. Ballotta, A. Peruffo, R. M. G. Ferrari, M. Mazo,
-"Fault Detection via Output-Based Barrier Functions,"
-<i>European Control Conference</i>, 2025
-[[bibtex](/assets/bibtex/faultDetection2025ecc.txt){:target="_blank"}]
 
 - L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
 "Control of Reaction-Diffusion Processes Under Communication Delays,"

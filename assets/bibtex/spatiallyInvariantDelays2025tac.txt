@@ -1,0 +1,11 @@
+@ARTICLE{10306277,
+  author={Ballotta, Luca and Arbelaiz, Juncal and Gupta, Vijay and Schenato, Luca and Jovanović, Mihailo R.},
+  journal={IEEE Transactions on Automatic Control}, 
+  title={The Role of Communication Delays in the Optimal Control of Spatially Invariant Systems}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-16},
+  keywords: {Delays;Kernel;Optimal control;Feedback control;Convolution;Adaptive control;Actuators;Process control;Gain measurement;Frequency-domain analysis;Communication delays;delay system;optimal control;resource allocation;spatially invariant system},
+  doi: 10.1109/TAC.2025.3601758,
+}
