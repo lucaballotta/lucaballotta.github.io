@@ -1,8 +1,10 @@
-@INPROCEEDINGS{ballotta25ejc,
+@ARTICLE{ballotta25ejc,
   author={Ballotta, Luca and Arbelaiz, Andrea and Ferrari, Riccardo M. G. and Mazo, Manuel},
-  booktitle={European Journal of Control}, 
+  journal={European Journal of Control}, 
   title={Fault Detection via Output-Based Barrier Functions}, 
   year={2025},
+  volume={},
   pages={101283},
+  keywords={Barrier function fault detection; Fault diagnosis; Fault-tolerant control; Nonlinear systems},
   doi={https://doi.org/10.1016/j.ejcon.2025.101283}
 }
