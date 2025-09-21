@@ -21,12 +21,13 @@ order: 2
 "The Role of Communication Delays in the Optimal Control of Spatially Invariant Systems,"
 <i>IEEE Transactions on Automatic Control</i>, 2025
 [[online](https://ieeexplore.ieee.org/document/11134281){:target="_blank"}]
+[[arxiv](https://arxiv.org/abs/2509.09269){:target="_blank"}]
 [[bibtex](/assets/bibtex/spatiallyInvariantDelays2025tac.txt){:target="_blank"}]
 
 - L. Ballotta, A. Peruffo, R. M. G. Ferrari, M. Mazo,
 "Fault Detection via Output-Based Barrier Functions,"
 <i>European Journal of Control</i>, 2025
-[[online](https://www.sciencedirect.com/science/article/pii/S0947358025001128){:target="_blank"}]
+[[online](https://www.sciencedirect.com/science/article/pii/S0947358025001128){:target="_blank"} <b>OA</b>]
 [[bibtex](/assets/bibtex/faultDetection2025ejc.txt){:target="_blank"}]
 
 - O. E. Akgün, Á. Vékássy, L. Ballotta, M. Yemini, S. Gil,
@@ -51,7 +52,7 @@ order: 2
 - L. Ballotta, N. Dal Fabbro, G. Perin, L. Schenato, M. Rossi, G. Piro, 
 "VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning,"
 <i>IEEE Transactions on Vehicular Technology</i>, 2025
-[[online](https://ieeexplore.ieee.org/document/10715716){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/10715716){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2311.18741){:target="_blank"}]
 [[bibtex](/assets/bibtex/vremfl2024tvt.txt){:target="_blank"}]
 
@@ -72,42 +73,42 @@ order: 2
 - L. Ballotta, G. Como, J. S. Shamma, L. Schenato, 
 "Can Competition Outperform Collaboration? The Role of Misbehaving Agents," 
 <i>IEEE Transactions on Automatic Control</i>, 2024
-[[online](https://ieeexplore.ieee.org/document/10306277){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/10306277){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2207.01346){:target="_blank"}]
 [[bibtex](/assets/bibtex/competitionCollaboration2024tac.txt){:target="_blank"}]
 
 - L. Ballotta, G. Peserico, F. Zanini, P. Dini, 
 "To Compute or Not to Compute? Adaptive Smart Sensing in Resource-Constrained Edge Computing," 
 <i> IEEE Transactions on Network Science and Engineering</i>, 2024
-[[online](https://ieeexplore.ieee.org/document/10225419){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/10225419){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2209.02166){:target="_blank"}]
 [[bibtex](/assets/bibtex/processingNetworksAdaptive2024tnse.txt){:target="_blank"}]
 
 - Y. Chang, L. Ballotta, L. Carlone, 
 "D-Lite: Navigation-Oriented Compression of 3D Scene Graphs for Multi-Robot Collaboration," 
 <i> IEEE Robotics and Automation Letters</i>, 2023
-[[online](https://ieeexplore.ieee.org/document/10265226){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/10265226){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2209.06111){:target="_blank"}]
 [[bibtex](/assets/bibtex/dlite2023ral.txt)]
 
 - E. Rossi, M. Tognon, L. Ballotta, R. Carli, J. Cortés, A. Franchi, L. Schenato, 
 "Coordinated multi-robot trajectory tracking control over sampled communication," 
 <i>Automatica</i>, 2023
-[[online](https://www.sciencedirect.com/science/article/pii/S0005109823000924){:target="_blank"}]
+[[online](https://www.sciencedirect.com/science/article/pii/S0005109823000924){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2112.00165){:target="_blank"}]
 [[bibtex](/assets/bibtex/multiRobot2023automatica.txt){:target="_blank"}]
 
 - L. Ballotta, V. Gupta,
 "Faster Consensus via a Sparser Controller," 
 <i>IEEE Control Systems Letters</i>, 2023
-[[online](https://ieeexplore.ieee.org/document/10104068){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/10104068){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2302.01021){:target="_blank"}]
 [[bibtex](/assets/bibtex/fasterConsensus2023lcss.txt){:target="_blank"}]
 
 - L. Ballotta, M. R. Jovanović, L. Schenato,
 "Can Decentralized Control Outperform Centralized? The Role of Communication Latency," 
 <i>IEEE Transactions on Control of Network Systems</i>, 2023
-[[online](https://ieeexplore.ieee.org/document/10018269){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/10018269){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2109.00359){:target="_blank"}]
 [[bibtex](/assets/bibtex/decentralizedCentralized2023tcns.txt){:target="_blank"}]
 
@@ -173,4 +174,4 @@ From sensor to Processing Networks: Optimal Estimation with Computation and Comm
 
 L. Ballotta, "On Fundamental Tradeoffs and Architecture Design in Networked Control Systems,"
 Doctoral thesis, University of Padova, 2023,
-[[online](https://hdl.handle.net/11577/3472924){:target="_blank"}]
+[[online](https://hdl.handle.net/11577/3472924){:target="_blank"} <b>OA</b>]
