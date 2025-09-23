@@ -166,7 +166,7 @@ order: 2
 From sensor to Processing Networks: Optimal Estimation with Computation and Communication Latency," 
 <i>IFAC World Congress</i>, 2020
 [<b>Young Author Prize at IFAC World Congress</b>]
-[[online](https://www.sciencedirect.com/science/article/pii/S2405896320304948){:target="_blank"}]
+[[online](https://www.sciencedirect.com/science/article/pii/S2405896320304948){:target="_blank"} <b>OA</b>]
 [[arxiv](https://arxiv.org/abs/2003.08301){:target="_blank"}]
 [[bibtex](/assets/bibtex/processingNetworks2020ifacwc.txt){:target="_blank"}]
 
