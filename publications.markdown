@@ -11,11 +11,14 @@ order: 2
 "Confidence Boosts Trust-Based Resilience in Cooperative Multi-Robot Systems,"
 [[arxiv](http://arxiv.org/abs/2506.08807){:target="_blank"}]
 
+<h1>Journal articles</h1>
+
 - L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
 "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
+<i>IEEE Transactions Control of Network Systems</i>, 2025
+[accepted]
 [[arxiv](http://arxiv.org/abs/2505.14081){:target="_blank"}]
-
-<h1>Journal articles</h1>
+[[bibtex](/assets/bibtex/personalizedResilientFL2025tcns.txt){:target="_blank"}]
 
 - L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
 "The Role of Communication Delays in the Optimal Control of Spatially Invariant Systems,"
