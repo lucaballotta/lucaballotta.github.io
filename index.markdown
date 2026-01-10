@@ -26,15 +26,15 @@ layout: home
   <img src="/assets/myself.jpg" />
   <div class="content">
     <ul style="list-style-type:none;">
-        <li>Delft Center for Systems and Control</li>
-        <li>Mekelweg 2</li>
-        <li>2628 CD Delft, Netherlands</li>
+        <li>Department of Information Engineering</li>
+        <li>Via Gradenigo 6/b</li>
+        <li>35131 Padova, Italy</li>
     </ul>
     <ul style="list-style-type:none;">
         <li><a href="https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=en&oi=ao" target="_blank"><img class="svg-icon" src="/assets/icons/scholar-icon.svg">Google scholar</a></li>
         <li><a href="https://www.linkedin.com/in/luca-ballotta-5a607b145/" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin'}}"></use></svg>LinkedIn</a></li>
         <li><a href="https://orcid.org/0000-0002-6521-7142" target="_blank"><img class="svg-icon" src="/assets/icons/orcid-icon.svg">ORCID</a></li>
-        <li><a href="mailto:l.ballotta@tudelft.nl"><img class="svg-icon" src="/assets/icons/email-icon.svg">Work email</a></li>
+        <li><a href="mailto:luca.ballotta@unipd.it"><img class="svg-icon" src="/assets/icons/email-icon.svg">Work email</a></li>
         <li><a href="/assets/Academic_cv.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
     </ul>
   </div>
@@ -44,10 +44,9 @@ layout: home
 
 <h1> Thank you for your visit! </h1>
 
-I am a postdoc at the [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"}, 
-working in [Riccardo Ferrari](https://www.dcsc.tudelft.nl/~riccardoferrar/){:target="_blank"}'s team.
+I am an assistant professor at the [Department of Information Engineering (DEI)](https://www.dei.unipd.it/){:target="_blank"} of the [University of Padova](https://www.unipd.it/){:target="_blank"}.
 
-I am interested in several problems in multi-agent and network control, resource allocation, and codesign.
+I am broadly interested in multi-agent and network control, resource allocation, and codesign.
 Head to the Research tab and take a peek at my bread and butter.
 
 I am also Publicity co-chair at [CSS Nextcom](https://sites.google.com/view/css-nextcom/){:target="_blank"}.

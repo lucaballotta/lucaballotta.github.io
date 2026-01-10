@@ -36,7 +36,7 @@ Below you'll find a succint summary of research topics I am interested in. For m
 Bachelor's theses will typically involve control applications and/or critical review of relevant literature, and serve as an entry point to specific research topics, application domains, or control-oriented software development.
 Master's theses are expected to address open research problems in control applications or methodology.
 
-If you are interested in doing a thesis on any of the topics below, please send me an email with '[Thesis]' in the subject line and specify what you would like to study in the email body. I'm happy to discuss alternative topics you may be interested in. Also, I'm open to multi-disciplinary thesis projects related to telecommunications, mathematics, operation research, computer science, etc.
+If you are interested in doing a thesis on any of the topics below, please [send me an email](emailto:luca.ballotta@unipd.it) with '[Thesis]' in the subject line and specify what you would like to study in the email body. I'm happy to discuss alternative topics you may be interested in. Also, I'm open to multi-disciplinary thesis projects related to telecommunications, mathematics, operation research, computer science, etc.
 
 <!-- processing networks -->
 {% capture details %}
@@ -103,6 +103,7 @@ Specific problems in this area include (but are not limited to):
 - safe reinforcement learning with control barrier functions
 - learning-based construction of control barrier functions
 - formal verification of control barrier functions
+- codesign of sensors and control barrier functions
 
 {% endcapture %}
 {% capture summary %}<b>Safe control and learning</b>{% endcapture %}{% include details.html %}
