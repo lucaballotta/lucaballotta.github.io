@@ -32,7 +32,7 @@ order: 1
 I've been working on a bunch of topics, mostly related to network control and multi-agent systems.
 Recently, I've started to work on fault detection and safety of control systems.
 
-Curious to learn more? Have a look at the items below!
+Curious to learn more? Take a look at the items below!
 
 <h2> Multi-robot collaboration </h2>
 
@@ -120,15 +120,15 @@ to obtain <b>trustworthiness indications</b> of agents based on their transmitte
 <h2> Processing networks </h2>
 
 Processing networks are wonderful beasts where interconnected smart sensors collect, process, and exchange data to fulfill a task.
-Prominents examples are <b>smart cameras for surveillance,
+Prominent examples are <b>smart cameras for surveillance,
 environmental sensors for pollution monitoring,
 teams of mobile robots,
 Internet-of-Things devices,
 and autonomous vehicles</b>.
 Smart sensors have limited computation and communication resources which need to be wisely allocated to optimize performance.
-This challenge is exhancerbated when dealing with networks of heterogeneous smart sensors.
+This challenge is exacerbated when dealing with networks of heterogeneous smart sensors.
 
-My research investigates <b>optimal codesing under resource constraints</b> such as computation and transmission delays and limited power consumption,
+My research investigates <b>optimal codesign under resource constraints</b> such as computation and transmission delays and limited power consumption,
 with a twofold focus:
 to develop <b>tailored models</b> of smart sensors under realistic conditions,
 and to devise <b>codesign algorithms</b> for optimal performance and resource allocation.

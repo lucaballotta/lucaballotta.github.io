@@ -31,7 +31,7 @@ order: 2
 
 I offer thesis projects for both Bachelor's and Master's degrees.
 Topics are broadly related to control systems over networks, safety and security, machine learning, and resource allocation.
-Below you'll find a succint summary of research topics I am interested in. For more details, please head to [Research](research.markdown). Also, you'll find specific thesis project proposals (Master's level) at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
+Below you'll find a succinct summary of research topics I am interested in. For more details, please head to [Research](research.markdown). Also, you'll find specific thesis project proposals (Master's level) at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
 
 Bachelor's theses will typically involve control applications and/or critical review of relevant literature, and serve as an entry point to specific research topics, application domains, or control-oriented software development.
 Master's theses are expected to address open research problems in control applications or methodology.
@@ -62,9 +62,9 @@ Specific problems in this area include (but are not limited to):
 <!-- resilient multi-agent systems -->
 {% capture details %}
 
-In multi-agent systems connected over wireless networks, cyberattackers can intrude the system through the network itself to compromise nominal system behavior and, in the worst case, disrupt safety and performance.
+In multi-agent systems connected over wireless networks, cyberattacks can intrude the system through the network itself to compromise nominal system behavior and, in the worst case, disrupt safety and performance.
 
-I am interested in designing resilient distributed algorithms that, without centralied coordination or detection, can cope with unknown adversarial agents. This problem has relevant applications in federated learning, multi-robot systems, and smart power networks, to name a few.
+I am interested in designing resilient distributed algorithms that, without centralized coordination or detection, can cope with unknown adversarial agents. This problem has relevant applications in federated learning, multi-robot systems, and smart power networks, to name a few.
 
 A particularly attractive opportunity is represented by recent research in physical layer security, a cybersecurity approach based on detecting variations of physical communication signals. How to efficiently interface this security approach with higher-level control and learning objective is an active line of research.
 
