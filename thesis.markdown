@@ -117,11 +117,11 @@ Large-scale systems impose restrictions on the control inputs. Even if many inpu
 For a linear systems, the problem of sparse control can be seen as the selection of few columns of the input-state matrix <b><i>B</i></b>, typically subject to controllability constraints and/or minimization of control energy.
 
 Specific problems in this area include (but are not limited to):
-- energy-efficient actuator selection and scheduling (i.e., time-varying selection)
-- structural controllability under actuator selection or scheduling
-- sparse control of large-scale networks and multi-agent systems
-- sparse attacks and defense strategies for cybersecurity
-- energy-efficient sparse reinforcement learning
+  - energy-efficient actuator selection and scheduling (i.e., time-varying selection)
+  - structural controllability under actuator selection or scheduling
+  - sparse control of large-scale networks and multi-agent systems
+  - sparse attacks and defense strategies for cybersecurity
+  - energy-efficient sparse reinforcement learning
 
 {% endcapture %}
 {% capture summary %}<b>Sparse control and learning</b>{% endcapture %}{% include details.html %}
