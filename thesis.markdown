@@ -45,7 +45,7 @@ A processing network is a multi-agent network system where agents are equipped w
 
 Since agents are lightweight, their collective operations must be carefully managed to ensure high performance under energy, hardware, and bandwidth constraints. For example, when can a robot reduce local computations and rely on information sent by neighboring robots?
 
-An interesting setting is edge-cloud architecture, where an agent (i.e., an edge device) can offload execution of a computationally intensive task to a powerful edge or cloud server to save energy, for instance in autonomous driving. In this scenario, optimally balancing computation and communication latency and energy is key to ensure high performance and safety.
+An interesting setting is edge-cloud architecture, where an agent (i.e., an edge device) can offload execution of computationally intensive tasks to a powerful edge or cloud server to save energy, for instance in autonomous driving. In this scenario, optimally balancing computation and communication latency and energy is key to ensure high performance and safety.
 
 Specific problems in this area include (but are not limited to):
 - policies for computation allocation and cloud offloading
