@@ -41,9 +41,9 @@ If you are interested in doing a thesis on any of the topics below, please [send
 <!-- processing networks -->
 {% capture details %}
 
-A processing network is a kind of multi-agent network system where agents are equipped with sensing, compute, communication, and possibly actuation/decision-making. It models a broad spectrum of systems such as wireless sensor networks, multi-robot systems, Industrial Internet-of-Things applications, and smart power grids.
+A processing network is a multi-agent network system where agents are equipped with sensing, compute, communication, and possibly actuation/decision-making. It models a broad spectrum of systems such as wireless sensor networks, multi-robot systems, or Industrial Internet-of-Things.
 
-Agents carry lightweight hardware due to energy, weight, and budget limitations. Therefore, their operations must be carefully managed to ensure high performance under resource constraints. Coordination and collaboration among agents within the network counterbalance individual agents' limitations, but how to optimally coordinate agents is far from trivial. For example, when can a robot reduce local computations and rely on information sent by neighboring robots?
+Since agents are lightweight, their collective operations must be carefully managed to ensure high performance under energy, hardware, and bandwidth constraints. For example, when can a robot reduce local computations and rely on information sent by neighboring robots?
 
 An interesting setting is edge-cloud architecture, where an agent (i.e., an edge device) can offload execution of a computationally intensive task to a powerful edge or cloud server to save energy, for instance in autonomous driving. In this scenario, optimally balancing computation and communication latency and energy is key to ensure high performance and safety.
 
