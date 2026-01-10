@@ -93,6 +93,17 @@ to obtain <b>trustworthiness indications</b> of agents based on their transmitte
 {% capture details %}
 <br>
 <section class="section">
+  <img src="/assets/paper_figs/personalizedResilientFL.jpg" />
+  <div class="content">
+    <p class="paragraph">
+      L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
+      "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
+      <i>IEEE Transactions Control of Network Systems</i>, 2025
+      [<a href="https://ieeexplore.ieee.org/document/11316839" target="_blank">online</a>]
+    </p>
+  </div>
+</section>
+<section class="section">
   <img src="/assets/paper_figs/trustConfidence.jpg" />
   <div class="content">
     <p class="paragraph">
