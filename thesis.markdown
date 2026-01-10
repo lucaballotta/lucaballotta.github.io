@@ -80,6 +80,7 @@ Specific problems in this area include (but are not limited to):
 {% capture details %}
 
 Federated learning is a machine learning framework where the dataset is split into many pieces, each assigned to an independent machine, or client. Due to privacy concerns, but also communication constraints, aggregating all individual datasets is not an option, requiring appropriate techniques whereby each client locally trains a model and all models are periodically aggregated to enhance performance.
+
 Recently, federated learning on vehicles has been proposed as a promising solution to efficiently use sensory data generated while traveling, such as from cars' cameras and lidars. However, this scenario brings in several challenges: vehicles are mobile and thus network connectivity may change overtime; computation resources are limited; data collected online cannot be manually labeled by humans.
 
 Specific problems in this area include (but are not limited to):
@@ -95,6 +96,7 @@ Specific problems in this area include (but are not limited to):
 {% capture details %}
 
 Physical control systems are subject to more or less stringent safety requirements, from collision avoidance in robot navigation and autonomous driving to current balancing in power networks. Such requirements can typically be expressed as set-membership hard constraints on the state of the system; in other words, the state must always remain inside a set, usually called <i>safe set</i>. This requirement is particularly challenging with learning-based models, e.g., reinforcement learning in the control loop, as they cannot generally learn hard constraints and therefore must be tweaked appropriately.
+
 One powerful way to meet hard safety constraints uses control barrier functions (CBF), which are control Lyapunov-like functions that ensure forward invariance of a set. However, finding an appropriate control barrier functions is computationally challenging in general and requires careful evaluation of unmodeled dynamics and noises. In addition, the integration of barrier functions with learning-based models is still an open research area.
 
 Specific problems in this area include (but are not limited to):
