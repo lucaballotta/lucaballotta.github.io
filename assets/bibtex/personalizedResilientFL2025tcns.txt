@@ -2,9 +2,9 @@
   author={Ballotta, Luca and Bastianello, Nicola and Ferrari, Riccardo M. G. and Johansson, Karl H.},
   journal={IEEE Transactions on Control of Network Systems}, 
   title={Personalized and Resilient Distributed Learning Through Opinion Dynamics}, 
-  year={2023},
+  year={2025},
   volume={},
   number={},
   pages={},
-  doi={}
+  doi={10.1109/TCNS.2025.3649108}
 }

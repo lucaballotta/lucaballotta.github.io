@@ -56,6 +56,8 @@ or just an enthusiast, that is the right place to boost your network and career!
 
 <h1> News </h1>
 
+- [1 Dec. 2025] Officially started as assistant professor at the Department of University Engineering, University of Padova.
+
 - [6 June 2025] Two L-CSS papers just accepted. Kudos to all co-authors!
   
   - O. E. Akgün, Á. Vékássy, L. Ballotta, M. Yemini, S. Gil, "Friedkin-Johnsen Is Distributed Gradient Descent."

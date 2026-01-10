@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 2
+order: 3
 ---
 
 <h1>Preprints</h1>
@@ -16,7 +16,7 @@ order: 2
 - L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
 "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
 <i>IEEE Transactions Control of Network Systems</i>, 2025
-[accepted]
+[[online](https://ieeexplore.ieee.org/document/11316839){:target="_blank"}]
 [[arxiv](http://arxiv.org/abs/2505.14081){:target="_blank"}]
 [[bibtex](/assets/bibtex/personalizedResilientFL2025tcns.txt){:target="_blank"}]
 
