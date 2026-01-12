@@ -26,7 +26,7 @@ layout: home
   <img src="/assets/myself.jpg" />
   <div class="content">
     <ul style="list-style-type:none;">
-        <li>Department of Information Engineering</li>
+        <li>Room 117</li>
         <li>Via Gradenigo 6/b</li>
         <li>35131 Padova, Italy</li>
     </ul>
