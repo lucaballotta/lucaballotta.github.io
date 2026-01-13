@@ -16,8 +16,7 @@ order: 3
 - L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
 "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
 <i>IEEE Transactions Control of Network Systems</i>, 2025
-[[online](https://ieeexplore.ieee.org/document/11316839){:target="_blank"}]
-[[arxiv](http://arxiv.org/abs/2505.14081){:target="_blank"}]
+[[online <b>OA</b>](https://ieeexplore.ieee.org/document/11316839){:target="_blank"}]
 [[bibtex](/assets/bibtex/personalizedResilientFL2025tcns.txt){:target="_blank"}]
 
 - L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
