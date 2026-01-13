@@ -16,7 +16,7 @@ order: 3
 - L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
 "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
 <i>IEEE Transactions Control of Network Systems</i>, 2025
-[[online <b>OA</b>](https://ieeexplore.ieee.org/document/11316839){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/11316839){:target="_blank"} <b>OA</b>]
 [[bibtex](/assets/bibtex/personalizedResilientFL2025tcns.txt){:target="_blank"}]
 
 - L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
@@ -55,7 +55,6 @@ order: 3
 "VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning,"
 <i>IEEE Transactions on Vehicular Technology</i>, 2025
 [[online](https://ieeexplore.ieee.org/document/10715716){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2311.18741){:target="_blank"}]
 [[bibtex](/assets/bibtex/vremfl2024tvt.txt){:target="_blank"}]
 
 - L. Ballotta, Á. Vékássy, S. Gil, M. Yemini,
@@ -76,42 +75,36 @@ order: 3
 "Can Competition Outperform Collaboration? The Role of Misbehaving Agents," 
 <i>IEEE Transactions on Automatic Control</i>, 2024
 [[online](https://ieeexplore.ieee.org/document/10306277){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2207.01346){:target="_blank"}]
 [[bibtex](/assets/bibtex/competitionCollaboration2024tac.txt){:target="_blank"}]
 
 - L. Ballotta, G. Peserico, F. Zanini, P. Dini, 
 "To Compute or Not to Compute? Adaptive Smart Sensing in Resource-Constrained Edge Computing," 
 <i> IEEE Transactions on Network Science and Engineering</i>, 2024
 [[online](https://ieeexplore.ieee.org/document/10225419){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2209.02166){:target="_blank"}]
 [[bibtex](/assets/bibtex/processingNetworksAdaptive2024tnse.txt){:target="_blank"}]
 
 - Y. Chang, L. Ballotta, L. Carlone, 
 "D-Lite: Navigation-Oriented Compression of 3D Scene Graphs for Multi-Robot Collaboration," 
 <i> IEEE Robotics and Automation Letters</i>, 2023
 [[online](https://ieeexplore.ieee.org/document/10265226){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2209.06111){:target="_blank"}]
 [[bibtex](/assets/bibtex/dlite2023ral.txt)]
 
 - E. Rossi, M. Tognon, L. Ballotta, R. Carli, J. Cortés, A. Franchi, L. Schenato, 
 "Coordinated multi-robot trajectory tracking control over sampled communication," 
 <i>Automatica</i>, 2023
 [[online](https://www.sciencedirect.com/science/article/pii/S0005109823000924){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2112.00165){:target="_blank"}]
 [[bibtex](/assets/bibtex/multiRobot2023automatica.txt){:target="_blank"}]
 
 - L. Ballotta, V. Gupta,
 "Faster Consensus via a Sparser Controller," 
 <i>IEEE Control Systems Letters</i>, 2023
 [[online](https://ieeexplore.ieee.org/document/10104068){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2302.01021){:target="_blank"}]
 [[bibtex](/assets/bibtex/fasterConsensus2023lcss.txt){:target="_blank"}]
 
 - L. Ballotta, M. R. Jovanović, L. Schenato,
 "Can Decentralized Control Outperform Centralized? The Role of Communication Latency," 
 <i>IEEE Transactions on Control of Network Systems</i>, 2023
 [[online](https://ieeexplore.ieee.org/document/10018269){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2109.00359){:target="_blank"}]
 [[bibtex](/assets/bibtex/decentralizedCentralized2023tcns.txt){:target="_blank"}]
 
 - L. Ballotta, L. Schenato, L. Carlone,
@@ -169,11 +162,10 @@ From sensor to Processing Networks: Optimal Estimation with Computation and Comm
 <i>IFAC World Congress</i>, 2020
 [<b>Young Author Prize at IFAC World Congress</b>]
 [[online](https://www.sciencedirect.com/science/article/pii/S2405896320304948){:target="_blank"} <b>OA</b>]
-[[arxiv](https://arxiv.org/abs/2003.08301){:target="_blank"}]
 [[bibtex](/assets/bibtex/processingNetworks2020ifacwc.txt){:target="_blank"}]
 
 <h1>Ph.D. thesis</h1>
 
 L. Ballotta, "On Fundamental Tradeoffs and Architecture Design in Networked Control Systems,"
-Doctoral thesis, University of Padova, 2023,
+Doctoral thesis, University of Padova, 2023
 [[online](https://hdl.handle.net/11577/3472924){:target="_blank"} <b>OA</b>]
