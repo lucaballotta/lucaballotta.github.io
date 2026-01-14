@@ -7,8 +7,14 @@ order: 3
 
 <h1>Preprints</h1>
 
+- L. Ballotta, G. Joseph,
+"Minimal Actuator Selection,"
+2026
+[[arxiv](http://arxiv.org/abs/2601.08338){:target="_blank"}]
+
 - L. Ballotta, Á. Vékássy, S. Gil, M. Yemini,
 "Confidence Boosts Trust-Based Resilience in Cooperative Multi-Robot Systems,"
+2025
 [[arxiv](http://arxiv.org/abs/2506.08807){:target="_blank"}]
 
 <h1>Journal articles</h1>
