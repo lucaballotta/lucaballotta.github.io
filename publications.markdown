@@ -10,7 +10,7 @@ order: 3
 - L. Ballotta, G. Joseph,
 "Minimal Actuator Selection,"
 2026
-[[arxiv](){:target="_blank"}]
+[[arxiv](http://arxiv.org/abs/2601.08338){:target="_blank"}]
 
 - L. Ballotta, Á. Vékássy, S. Gil, M. Yemini,
 "Confidence Boosts Trust-Based Resilience in Cooperative Multi-Robot Systems,"
