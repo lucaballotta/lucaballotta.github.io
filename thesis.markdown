@@ -31,10 +31,11 @@ order: 2
 
 I offer thesis projects for both Bachelor's and Master's degrees.
 Topics are broadly related to control systems over networks, safety and security, machine learning, and resource allocation.
-Below you'll find a succinct summary of research topics I am interested in. For more details, please head to [Research](research.markdown). Also, you'll find specific thesis project proposals (Master's level) at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
+Below you'll find a succinct summary of research topics I am interested in. For more details, please head to [Research](research.markdown). Also, you'll find specific Master's thesis proposals at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
 
-Bachelor's final projects will typically involve simulations of control applications, study of advanced topics (e.g., from a Master's degree course), or review of relevant literature.
-Master's theses are expected to address open research problems in control applications, theory, or methodology.
+Bachelor's final projects will typically involve simulations of control applications, study of advanced topics (e.g., from a Master's degree course), or review of papers.
+Master's theses are expected to address challenging design problems or research in control applications, theory, or methodology.
+Also, feel free to ask me about options for thesis and/or internship at companies.
 
 If you are interested in doing a thesis on any of the topics below, please [send me an email](emailto:luca.ballotta@unipd.it) with "[Thesis]" in the subject line attaching you CV (coursework and any relevant experience) and specify what you would like to study in the email body. I'm happy to discuss alternative topics you may be interested in. Also, I'm open to multi-disciplinary thesis projects related to telecommunications, mathematics, operation research, computer science, etc.
 
