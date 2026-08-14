@@ -1,0 +1,9 @@
+@INPROCEEDINGS{YangOptimalStepsize2026,
+  author={Wang, Yifam and Ballotta, Luca and Carli, Ruggero and Iannelli, Andrea and Cao, Xianghui and Schenato, Luca},
+  booktitle={2026 IFAC World Congress}, 
+  title={Pursuing Optimal Stepsize in Adaptive Gradient-Based Quadratic Optimization}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={}
+}
