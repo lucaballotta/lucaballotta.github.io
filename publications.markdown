@@ -12,6 +12,7 @@ order: 3
 "Submodular Policy Learning for Distributed Task Allocation in Open Multi-Agent Systems,"
 2026
 [submitted to IEEE Trans. Autom. Control]
+[[arxiv](http://arxiv.org/abs/2608.14390){:target="_blank"}]
 
 - J. Liu, Y. Yang, L. Ballotta, F. Li, Y. Tang, R. Carli,
 "Submodular Multi-Agent Policy Learning for Online Distributed Task Allocation in Open Multi-Agent Systems,"
