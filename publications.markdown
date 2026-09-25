@@ -29,12 +29,6 @@ order: 3
 <!-- Journal articles -->
 <h1>Journal articles</h1>
 
-- J. Liu, Y. Yang, L. Ballotta, F. Li, Y. Tang, R. Carli,
-"Submodular Multi-Agent Policy Learning for Online Distributed Task Allocation in Open Multi-Agent Systems,"
-<i>NeurIPS</i>, 2026
-[[arxiv](http://arxiv.org/abs/2605.13269){:target="_blank"}]
-[[bibtex](/assets/bibtex/submodularMARL2026nips.txt){:target="_blank"}]
-
 - L. Ballotta, G. Joseph,
 "Minimal Actuator Selection in Linear Time-Invariant Systems,"
 <i>IEEE Trans. Autom. Control</i>, 2026
@@ -144,6 +138,12 @@ order: 3
 
 <!-- Conference papers -->
 <h1>Conference papers</h1>
+
+- J. Liu, Y. Yang, L. Ballotta, F. Li, Y. Tang, R. Carli,
+"Submodular Multi-Agent Policy Learning for Online Distributed Task Allocation in Open Multi-Agent Systems,"
+<i>NeurIPS</i>, 2026
+[[arxiv](http://arxiv.org/abs/2605.13269){:target="_blank"}]
+[[bibtex](/assets/bibtex/submodularMARL2026nips.txt){:target="_blank"}]
 
 - Y. Wang, L. Ballotta, R. Carli, A. Iannelli, X.  Cao, L. Schenato,
 "Pursuing Optimal Stepsize in Adaptive Gradient-Based Quadratic Optimization,"

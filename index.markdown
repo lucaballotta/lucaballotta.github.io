@@ -35,7 +35,7 @@ layout: home
         <li><a href="https://www.linkedin.com/in/luca-ballotta-5a607b145/" target="_blank"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin'}}"></use></svg>LinkedIn</a></li>
         <li><a href="https://orcid.org/0000-0002-6521-7142" target="_blank"><img class="svg-icon" src="/assets/icons/orcid-icon.svg">ORCID</a></li>
         <li><a href="mailto:luca.ballotta@unipd.it"><img class="svg-icon" src="/assets/icons/email-icon.svg">Work email</a></li>
-        <li><a href="/assets/Academic_cv.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">CV</a></li>
+        <li><a href="/assets/Academic_cv.pdf" target="_blank"><img class="svg-icon" src="/assets/icons/paper.svg">Academic CV (updated Sept. 2026)</a></li>
     </ul>
   </div>
 </section>
