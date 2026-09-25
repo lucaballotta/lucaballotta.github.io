@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Ballotta2026tac-actuatorSelection,
+  author={Luca Ballotta and Geethu Joseph},
+  journal={IEEE Transactions on Automatic Control}, 
+  title={Minimal Actuator Selection in Linear Time-Invariant Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={},
+  doi={}
+}

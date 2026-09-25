@@ -1,0 +1,11 @@
+@INPROCEEDINGS{Liu2026nips-submodularMARL,
+  author={Jing Liu and YangYang Yang and Luca Ballotta and Fangfei Li and Yang Tang and Ruggero Carli},
+  booktitle={Advances in Neural Information Processing Systems}, 
+  title={Submodular Multi-Agent Policy Learning for Online Distributed Task Allocation in Open Multi-Agent Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={},
+  doi={}
+}
