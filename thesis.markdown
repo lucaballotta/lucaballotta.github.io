@@ -31,12 +31,32 @@ order: 2
 
 I offer thesis projects for both Bachelor's and Master's degrees.
 Topics are broadly related to control systems over networks, safety and security, machine learning, and resource allocation.
-Below you'll find a succinct summary of research topics I am interested in. For more details, please head to [Research](research.markdown). Also, you'll find specific thesis project proposals (Master's level) at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
+Below you'll find a succinct summary of research topics I am interested in. For more details on specific topics, please head to [Research](research.markdown). Also, you'll find specific thesis project proposals (Master's level) at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
 
 Bachelor's final projects will typically involve simulations of control applications, study of advanced topics (e.g., from a Master's degree course), or review of relevant literature.
-Master's theses are expected to address open research problems in control applications, theory, or methodology.
+Master's theses are expected to address challenging control applications or open research problems.
 
 If you are interested in doing a thesis on any of the topics below, please [send me an email](emailto:luca.ballotta@unipd.it) with "[Thesis]" in the subject line attaching you CV (coursework and any relevant experience) and specify what you would like to study in the email body. I'm happy to discuss alternative topics you may be interested in. Also, I'm open to multi-disciplinary thesis projects related to telecommunications, mathematics, operation research, computer science, etc.
+
+Collaborations/internships at companies and/or universities abroad may be available: if interested, please ask me for current opportunities.
+
+<!-- safe control and learning -->
+{% capture details %}
+
+Physical control systems are subject to more or less stringent safety requirements, from collision avoidance in robot navigation and autonomous driving to powwer balancing in power networks. Such requirements can typically be expressed as set-membership hard constraints on the state of the system; in other words, the state must always remain inside a set, usually called <i>safe set</i>. This requirement is particularly challenging with learning-based control, e.g., reinforcement learning, as machine learning models are trained to optimize an objective function in expectation without satisfying hard constraints.
+
+One method from control theory which I like uses control barrier functions (CBF), which are designed to ensure forward invariance of a set: simply put, the state will remain within a given set, forever. However, finding an appropriate control barrier functions is computationally challenging in general.
+
+Specific problems in this area include (but are not limited to):
+- safe reinforcement learning
+- safe multi-agent reinforcement learning
+- safe molde-based and learning-based control with control barrier functions
+- control barrier functions for multi-agent systems
+- learning-based synthesis of control barrier functions
+- codesign of sensors and control barrier functions
+
+{% endcapture %}
+{% capture summary %}<b>Safe control and learning</b>{% endcapture %}{% include details.html %}
 
 <!-- processing networks -->
 {% capture details %}
@@ -91,24 +111,6 @@ Specific problems in this area include (but are not limited to):
 - joint resource allocation and path planning of vehicles
 {% endcapture %}
 {% capture summary %}<b>Vehicular federated learning</b>{% endcapture %}{% include details.html %}
-
-<!-- safe control and learning -->
-{% capture details %}
-
-Physical control systems are subject to more or less stringent safety requirements, from collision avoidance in robot navigation and autonomous driving to current balancing in power networks. Such requirements can typically be expressed as set-membership hard constraints on the state of the system; in other words, the state must always remain inside a set, usually called <i>safe set</i>. This requirement is particularly challenging with learning-based models, e.g., reinforcement learning in the control loop, as they cannot generally learn hard constraints and therefore must be tweaked appropriately.
-
-One powerful way to meet hard safety constraints uses control barrier functions (CBF), which are control Lyapunov-like functions that ensure forward invariance of a set. However, finding an appropriate control barrier functions is computationally challenging in general and requires careful evaluation of unmodeled dynamics and noises. In addition, the integration of barrier functions with learning-based models is still an open research area.
-
-Specific problems in this area include (but are not limited to):
-- control barrier functions with noisy dynamics and/or measurements
-- control barrier functions for multi-agent systems
-- safe reinforcement learning with control barrier functions
-- learning-based construction of control barrier functions
-- formal verification of control barrier functions
-- codesign of sensors and control barrier functions
-
-{% endcapture %}
-{% capture summary %}<b>Safe control and learning</b>{% endcapture %}{% include details.html %}
 
 <!-- sparse control and learning -->
 {% capture details %}
