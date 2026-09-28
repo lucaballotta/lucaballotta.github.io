@@ -5,19 +5,35 @@ permalink: /publications/
 order: 3
 ---
 
+<!-- Preprints -->
 <h1>Preprints</h1>
 
-- L. Ballotta, G. Joseph,
-"Minimal Actuator Selection,"
+- J. Liu, L. Ballotta, Y. Yang, F. Li, Y. Tang, R. Carli,
+"Submodular Policy Learning for Distributed Task Allocation in Open Multi-Agent Systems,"
 2026
-[[arxiv](http://arxiv.org/abs/2601.08338){:target="_blank"}]
+[submitted to IEEE Trans. Autom. Control]
+[[arxiv](http://arxiv.org/abs/2608.14390){:target="_blank"}]
+
+- Y. Wang, L. Ballotta, R. Carli, A. Iannelli, X.  Cao, L. Schenato,
+"Adaptive Stepsizes With Certified Convergence in Distributed Gradient Tracking With Quadratic Costs,"
+2026
+[submitted to IEEE Trans. Autom. Control]
+[[arxiv](http://arxiv.org/abs/2608.03548){:target="_blank"}]
 
 - L. Ballotta, Á. Vékássy, S. Gil, M. Yemini,
 "Confidence Boosts Trust-Based Resilience in Cooperative Multi-Robot Systems,"
 2025
+[submitted to IEEE Trans. Autom. Control]
 [[arxiv](http://arxiv.org/abs/2506.08807){:target="_blank"}]
 
+<!-- Journal articles -->
 <h1>Journal articles</h1>
+
+- L. Ballotta, G. Joseph,
+"Minimal Actuator Selection in Linear Time-Invariant Systems,"
+<i>IEEE Trans. Autom. Control</i>, 2026
+[[arxiv](http://arxiv.org/abs/2601.08338){:target="_blank"}]
+[[bibtex](/assets/bibtex/actuatorSelection2026tac.txt){:target="_blank"}]
 
 - L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
 "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
@@ -120,7 +136,20 @@ order: 3
 [[arxiv](https://arxiv.org/abs/1911.05859){:target="_blank"}]
 [[bibtex](/assets/bibtex/processingNetworks2020tnse.txt){:target="_blank"}]
 
+<!-- Conference papers -->
 <h1>Conference papers</h1>
+
+- J. Liu, Y. Yang, L. Ballotta, F. Li, Y. Tang, R. Carli,
+"Submodular Multi-Agent Policy Learning for Online Distributed Task Allocation in Open Multi-Agent Systems,"
+<i>NeurIPS</i>, 2026
+[[arxiv](http://arxiv.org/abs/2605.13269){:target="_blank"}]
+[[bibtex](/assets/bibtex/submodularMARL2026nips.txt){:target="_blank"}]
+
+- Y. Wang, L. Ballotta, R. Carli, A. Iannelli, X.  Cao, L. Schenato,
+"Pursuing Optimal Stepsize in Adaptive Gradient-Based Quadratic Optimization,"
+<i>IFAC World Congress</i>, 2026
+[[arxiv](https://arxiv.org/abs/2608.03546){:target="_blank"}]
+[[bibtex](/assets/bibtex/pursuing2026ifac.txt){:target="_blank"}]
 
 - L. Ballotta, J. Arbelaiz, V. Gupta, L. Schenato, M. R. Jovanović,
 "Control of Reaction-Diffusion Processes Under Communication Delays,"
