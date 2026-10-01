@@ -29,9 +29,11 @@ order: 2
 
 </style>
 
+&#8680; Please check specific thesis proposals (Master's degree) on the [elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}
+
 I offer thesis projects for both Bachelor's and Master's degrees.
 Topics are broadly related to control systems over networks, safety and security, machine learning, and resource allocation.
-Below you'll find a succinct summary of research topics I am interested in. For more details on specific topics, please head to [Research](research.markdown). Also, you'll find specific thesis project proposals (Master's level) at [my thesis elearning webpage](https://elearning.dei.unipd.it/tesi/proposte-tesi/?relatore=417&corso=&selected_tags=){:target="_blank"}.
+Below you'll find a succinct summary of research topics I am interested in. For more details on specific topics, please head to [Research](research.markdown).
 
 Bachelor's final projects will typically involve simulations of control applications, study of advanced topics (e.g., from a Master's degree course), or review of relevant literature.
 Master's theses are expected to address challenging control applications or open research problems.
