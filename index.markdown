@@ -27,6 +27,7 @@ layout: home
   <div class="content">
     <ul style="list-style-type:none;">
         <li>Room 117</li>
+        <li>Building DEI/A</li>
         <li>Via Gradenigo 6/b</li>
         <li>35131 Padova, Italy</li>
     </ul>
