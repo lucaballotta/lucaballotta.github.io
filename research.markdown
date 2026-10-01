@@ -44,8 +44,9 @@ Curious to learn more? Take a look at the items below!
     <p class="paragraph">
       L. Ballotta, R. Talak,
       "Safe Distributed Control of Multi-Robot Systems with Communication Delays", 
-      2024
+      <i>IEEE Transactions on Vehicular Technology</i>, 2025
       [<a href="https://arxiv.org/abs/2402.09382" target="_blank">arxiv</a>]
+      [<a href="https://ieeexplore.ieee.org/document/10908682" target="_blank">online</a>]
     </p>
   </div>
 </section>
@@ -98,7 +99,7 @@ to obtain <b>trustworthiness indications</b> of agents based on their transmitte
     <p class="paragraph">
       L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,
       "Personalized and Resilient Distributed Learning Through Opinion Dynamics,"
-      <i>IEEE Transactions Control of Network Systems</i>, 2025
+      <i>IEEE Transactions on Control of Network Systems</i>, 2025
       [<a href="https://ieeexplore.ieee.org/document/11316839" target="_blank">online</a>]
     </p>
   </div>
