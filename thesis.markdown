@@ -45,7 +45,7 @@ Collaborations/internships at companies and/or universities abroad may be availa
 <!-- safe control and learning -->
 {% capture details %}
 
-Physical control systems are subject to more or less stringent safety requirements, from collision avoidance in robot navigation and autonomous driving to powwer balancing in power networks. Such requirements can typically be expressed as set-membership hard constraints on the state of the system; in other words, the state must always remain inside a set, usually called <i>safe set</i>. This requirement is particularly challenging with learning-based control, e.g., reinforcement learning, as machine learning models are trained to optimize an objective function in expectation without satisfying hard constraints.
+Physical control systems are subject to more or less stringent safety requirements, from collision avoidance in robot navigation and autonomous driving to power balancing in power networks. Such requirements can typically be expressed as set-membership hard constraints on the state of the system; in other words, the state must always remain inside a set, usually called <i>safe set</i>. This requirement is particularly challenging with learning-based control, e.g., reinforcement learning, as machine learning models are trained to optimize an objective function in expectation without satisfying hard constraints.
 
 One method from control theory which I like uses control barrier functions (CBF), which are designed to ensure forward invariance of a set: simply put, the state will remain within a given set, forever. However, finding an appropriate control barrier functions is computationally challenging in general.
 
