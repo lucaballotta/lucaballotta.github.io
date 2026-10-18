@@ -31,8 +31,9 @@ order: 3
 
 - L. Ballotta, G. Joseph,
 "Minimal Actuator Selection in Linear Time-Invariant Systems,"
-<i>IEEE Trans. Autom. Control</i>, 2026
+<i>IEEE Transactions on Automatic Control</i>, 2026
 [[arxiv](http://arxiv.org/abs/2601.08338){:target="_blank"}]
+[[online](https://ieeexplore.ieee.org/document/11723169){:target="_blank"} <b>OA</b>]
 [[bibtex](/assets/bibtex/actuatorSelection2026tac.txt){:target="_blank"}]
 
 - L. Ballotta, N. Bastianello, R. M. G. Ferrari, K. H. Johansson,

@@ -6,6 +6,6 @@
   volume={},
   number={},
   pages={1-8},
-  keywords={},
+  keywords={Actuators;Algorithms;Controllability;Timing;Sparks;Eigenvalues and eigenfunctions;Actuator selection;set multicover;minimal controllability;robust actuator selection;linear systems},
   doi={10.1109/TAC.2026.3740662}
 }
