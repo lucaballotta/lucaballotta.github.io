@@ -7,6 +7,26 @@ order: 3
 
 <!-- Preprints -->
 <h1>Preprints</h1>
+- J. Liu, F. Li, X. Jin, Y. Tang, R. Carli, L. Ballotta,
+"Energy-Aware Distributed Task Allocation via Local Submodular Maximization,"
+2026
+[submitted to IEEE Trans. Control Netw. Syst.]
+
+- S. Li, L. Ballotta, G. Pillonetto, Y. Tang, G. Baggio,
+"Learning Where to Sense: When Going Direct Pays Off,"
+2026
+[submitted to Learning for Dynamics and Control (L4DC) Conference 2027]
+
+- J. Liu, L. Ballotta, F. Li, Y. Tang, R. Carli,
+"Compute-Aware Submodular Online Learning in Open Multi-Agent Systems,"
+2026
+[submitted to Learning for Dynamics and Control (L4DC) Conference 2027]
+
+- L. Ballotta, G. Joseph, W. Abbas, S. M. Fosson, C. R. Murthy, M. Nagahara, A. Olshevsky, K. Poe, R. Vidal,
+"Sparsity in Control Problems: Recent Trends and Open Challenges,"
+2026
+[submitted to Annu. Rev. Control]
+[[arxiv](http://arxiv.org/abs/2610.09787){:target="_blank"}]
 
 - J. Liu, L. Ballotta, Y. Yang, F. Li, Y. Tang, R. Carli,
 "Submodular Policy Learning for Distributed Task Allocation in Open Multi-Agent Systems,"
@@ -29,10 +49,11 @@ order: 3
 <!-- Journal articles -->
 <h1>Journal articles</h1>
 
+<b>OA</b>: Open Access
+
 - L. Ballotta, G. Joseph,
 "Minimal Actuator Selection in Linear Time-Invariant Systems,"
 <i>IEEE Transactions on Automatic Control</i>, 2026
-[[arxiv](http://arxiv.org/abs/2601.08338){:target="_blank"}]
 [[online](https://ieeexplore.ieee.org/document/11723169){:target="_blank"} <b>OA</b>]
 [[bibtex](/assets/bibtex/actuatorSelection2026tac.txt){:target="_blank"}]
 
